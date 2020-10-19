@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba11a903-d324-4a95-b6af-55b2ec91d404" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="ba11a903-d324-4a95-b6af-55b2ec91d404" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -63,16 +61,6 @@
               <item name="part1" type="b2602c69:ProjectViewProjectNode" />
               <item name="part1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="part1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="part1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -111,16 +99,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603027238595</updated>
-      <workItem from="1603027239676" duration="1848000" />
+      <workItem from="1603027239676" duration="2109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1848000" />
+    <option name="totallyTimeSpent" value="2109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="665" y="0" width="878" height="636" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
