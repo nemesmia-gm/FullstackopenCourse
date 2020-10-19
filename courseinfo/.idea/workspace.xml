@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59af89e5-9af5-4985-8beb-19eb7a588f00" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Total.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="772">
+              <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -46,10 +44,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="827" />
-    <option name="y" value="1" />
-    <option name="width" value="1098" />
-    <option name="height" value="795" />
+    <option name="x" value="713" />
+    <option name="width" value="1214" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -109,19 +106,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603043995539</updated>
-      <workItem from="1603043996694" duration="1733000" />
+      <workItem from="1603043996694" duration="2860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1733000" />
+    <option name="totallyTimeSpent" value="2860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="662" y="1" width="878" height="636" extended-state="0" />
+    <frame x="571" y="0" width="971" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18311533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16488223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Version Control" />
@@ -154,8 +151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="772">
+          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
